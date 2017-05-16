@@ -1,0 +1,9 @@
+#intellij conf files
+.idea/
+
+#gradle conf files
+gradle/
+.gradle/
+
+#build files
+build/
